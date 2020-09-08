@@ -1,3 +1,7 @@
+1. env faile pakeiciam savo duomenis.
+2. terminale   -php artisan migrate
+3.veikia
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
