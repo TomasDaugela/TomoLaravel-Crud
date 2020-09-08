@@ -6,7 +6,7 @@
            <div class="card">
                <div class="card-header">Naujas Mokinys:</div>
                <div class="card-body">
-                   <form action="{{ route('students.store') }}" method="POST">
+                   <form action="{{ route('student.store') }}" method="POST">
                        @csrf
                        <div class="form-group">
                             <label for="">Vardas: </label>
